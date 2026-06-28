@@ -182,3 +182,9 @@ npx tsc
 # Run compiled output from the dist directory
 node dist/Builder/example1.js
 ```
+
+---
+
+## 🏷️ Keywords & Search Tags
+
+`design-patterns` • `typescript-design-patterns` • `javascript-design-patterns` • `gof-design-patterns` • `software-architecture` • `clean-code` • `oop` • `creational-patterns` • `structural-patterns` • `behavioral-patterns` • `gang-of-four` • `ts` • `js`
